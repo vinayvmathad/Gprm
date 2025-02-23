@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi I'm Vinay  Mathad Seeking a DevOps Engineer role to leverage my skills in cloud infrastructure, automation,and container orchestration to drive efficient and scalable solutions.
-<br>🌱 I’m currently learning Devops tool<br>💬 Reach me out https://www.linkedin.com/in/vinay-mathad-0093b0195/<br>⚡ 
+<br>🌱 I’m currently searching for Devops engineer role. <br>💬 Reach me out https://www.linkedin.com/in/vinay-mathad-0093b0195/<br>⚡<br> 
 
 
 ## 🌐 Socials:
